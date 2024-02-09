@@ -1,0 +1,19 @@
+{
+  "name": "uptime-monitoring",
+  "version": "1.0.0",
+  "description": "This is an application to monitor uptime of specified websites.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vahe",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "p-limit": "^3.0.0",
+    "set-interval-async": "^3.0.3"
+  }
+}

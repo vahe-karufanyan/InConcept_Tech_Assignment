@@ -1,0 +1,18 @@
+{
+  "urls": [
+    "https://example.com",
+    "https://facebook.com",
+    "https://ebay.com",
+    "https://amazon.com",
+    "https://gitlab.com",
+    "gitlab.com",
+    "https://github.com",
+    "https://google.com/d",
+    "https://www.youtube.com/@Fireship",
+    "https://youtube.com",
+    "youtube.com"
+  ],
+  "interval": 5,
+  "threshold": 5,
+  "batchLimit": 5
+}
